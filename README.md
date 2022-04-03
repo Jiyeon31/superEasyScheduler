@@ -10,7 +10,6 @@
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
-  * [Screenshots](#screenshots)
   * [License](#license)
   
   ## Installation
@@ -24,9 +23,7 @@
   ## License
     
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-  MIT-yellow
-  
-  
+ 
   ## Contributing
   
   you can contact me with my mail and github below.
