@@ -69,3 +69,23 @@ body {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
+
+  #button-addon2 {
+    background-color: #06AED5;
+  }
+
+  .timetable, .form-control {
+      height: 100px;
+  }
+
+  .present {
+    background-color: #bf0000;
+  }
+
+  .future {
+    background-color: #13d102;
+  }
+
+  .past {
+    background-color: #7c8491;
+  }
