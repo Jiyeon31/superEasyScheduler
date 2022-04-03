@@ -1,0 +1,22 @@
+{
+  "name": "supereasyscheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "git+https://github.com/Jiyeon31/superEasyScheduler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiyeon31/superEasyScheduler/issues"
+  },
+  "homepage": "https://github.com/Jiyeon31/superEasyScheduler#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
